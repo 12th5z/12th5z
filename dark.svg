@@ -145,7 +145,7 @@
     <tspan x="520" y="88" class="cc">. </tspan>
     <tspan class="key">Role</tspan>
     <tspan class="cc">: ............................. </tspan>
-    <tspan class="value">Software / Android Developer Intern</tspan>
+    <tspan class="value">Android / Software Intern</tspan>
   </text>
 </g>
 
@@ -154,7 +154,7 @@
     <tspan x="520" y="110" class="cc">. </tspan>
     <tspan class="key">Origin</tspan>
     <tspan class="cc">: ........................... </tspan>
-    <tspan class="value">Ho Chi Minh City, Vietnam</tspan>
+    <tspan class="value">Ho Chi Minh City, VN</tspan>
   </text>
 </g>
 
@@ -163,7 +163,7 @@
     <tspan x="520" y="132" class="cc">. </tspan>
     <tspan class="key">Education</tspan>
     <tspan class="cc">: ......................... </tspan>
-    <tspan class="value">HUFLIT · Software Engineering (2023-2027)</tspan>
+    <tspan class="value">HUFLIT · SE (2023 - 2027)</tspan>
   </text>
 </g>
 
@@ -172,7 +172,7 @@
     <tspan x="520" y="154" class="cc">. </tspan>
     <tspan class="key">Status</tspan>
     <tspan class="cc">: ............ </tspan>
-    <tspan class="value">Building • Learning • Seeking Internship</tspan>
+    <tspan class="value">Building • Seeking Intern</tspan>
   </text>
 </g>
 
@@ -181,7 +181,7 @@
     <tspan x="520" y="176" class="cc">. </tspan>
     <tspan class="key">ToolChain</tspan>
     <tspan class="cc">: ................. </tspan>
-    <tspan class="value">Android Studio, VS Code, Git/GitHub, Copilot</tspan>
+    <tspan class="value">Android Studio, VS Code, Git</tspan>
   </text>
 </g>
 
@@ -198,7 +198,7 @@
     <tspan class="cc">.</tspan>
     <tspan class="key">Lang</tspan>
     <tspan class="cc">: .......... </tspan>
-    <tspan class="value">Java, C#, Python, JavaScript</tspan>
+    <tspan class="value">Java, C#, Python, JS</tspan>
   </text>
 </g>
 
@@ -209,7 +209,7 @@
     <tspan class="cc">.</tspan>
     <tspan class="key">Mobile</tspan>
     <tspan class="cc">: ........ </tspan>
-    <tspan class="value">Android SDK, Firebase, Fragment, OOP</tspan>
+    <tspan class="value">Android SDK, Firebase, OOP</tspan>
   </text>
 </g>
 
@@ -220,7 +220,7 @@
     <tspan class="cc">.</tspan>
     <tspan class="key">Backend</tspan>
     <tspan class="cc">: ....... </tspan>
-    <tspan class="value">ASP.NET MVC, RESTful API</tspan>
+    <tspan class="value">ASP.NET MVC, REST API</tspan>
   </text>
 </g>
 
@@ -231,7 +231,7 @@
     <tspan class="cc">.</tspan>
     <tspan class="key">Database</tspan>
     <tspan class="cc">: ...... </tspan>
-    <tspan class="value">SQL Server, Firebase Realtime DB</tspan>
+    <tspan class="value">SQL Server, Firebase RTDB</tspan>
   </text>
 </g>
 
@@ -288,7 +288,7 @@
     <tspan class="cc">.</tspan>
     <tspan class="key">Projects</tspan>
     <tspan class="cc">: .................. </tspan>
-    <tspan class="value">CoffeX (Android), Bach Hoa Xanh (MVC)</tspan>
+    <tspan class="value">CoffeX, Bach Hoa Xanh</tspan>
   </text>
 </g>
 
